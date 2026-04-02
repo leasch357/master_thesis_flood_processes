@@ -1,9 +1,6 @@
 ##01 Load CAMELS, calibrate and run HBV model
 
-#set working directory
-setwd("C:/Users/leasc/Desktop/Masterarbeit/R/R_Abgabe")
-
-#install and load packages 
+#load packages 
 library(dplyr)
 
 #functions
