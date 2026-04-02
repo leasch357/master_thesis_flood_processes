@@ -1,11 +1,11 @@
 #03_01 Derive soil-moisture changepoints from CAMELS data 
 
-#load required packages
+#load packages
 library(dplyr)
 library(changepoint)
 library(ggplot2)
 
-#source HBV functions and changepoint routine 
+#functions
 source("R_func/hbv_sim_SAFE_updated.R")
 source("R_func/hbv_snow_objfun_SAFE_updated.R")
 source("R_func/calculate_changepoint.R")
