@@ -1,8 +1,10 @@
 #06 ISIMIP data evaluation: check climate bias (T, P, PET) by comparing CAMELS and ISIMIP forcing data 
 
+#load packages 
 library(dplyr)
 library(lubridate)
 
+#functions
 source("R_func/pet_priestley_taylor.R")
 
 #load catchment ids
