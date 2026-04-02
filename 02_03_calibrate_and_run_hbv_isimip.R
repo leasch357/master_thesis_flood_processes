@@ -1,6 +1,6 @@
 ##02_03 Load ISIMIP forcing, calibrate and run HBV model; calculate PET 
 
-#install and load packages 
+#load packages 
 library(dplyr)
 
 #fuctions 
