@@ -1,5 +1,6 @@
 #07_main figures and tables  
 
+#load packages 
 library(dplyr)
 library(tidyr)
 library(sf)
