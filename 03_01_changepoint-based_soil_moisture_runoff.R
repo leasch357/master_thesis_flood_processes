@@ -1,4 +1,4 @@
-#03_01 Derive soil-moisture changepoints from CAMELS data 
+scripts/#03_01 Derive soil-moisture changepoints from CAMELS data 
 
 #load required packages
 library(dplyr)
