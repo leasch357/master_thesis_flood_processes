@@ -10,7 +10,7 @@ source("R_func/hbv_sim_SAFE_updated.R")
 source("R_func/hbv_snow_objfun_SAFE_updated.R")
 source("R_func/calculate_changepoint.R")
 
-#path to Camels input data 
+#path to camels input data 
 ordner_camels_input <- "Data/CAMELS/camels-20250724T0232Z/basin_timeseries_v1p2_modelOutput_daymet/model_output_daymet/model_output/flow_timeseries/daymet/"
 
 #path to camels topografy data
